@@ -1,0 +1,15 @@
+# downloaded files
+
+# built files
+bin
+obj
+TestResults
+test-results
+# user-specific files
+.vs
+*.suo
+*.user
+# temp files
+*.orig
+*.log
+# secrets
